@@ -8,7 +8,7 @@
 
 	-c: Cuenta el número total de líneas en donde aparece la expresión de interés.
 
-	--color: Destaca la expresión buscada en un color en específico.
+	--color=always: Destaca la expresión buscada en un color en específico. Generalmente el texto se destaca sin este argumento.
    
 	--help: Listado en detalle de los argumentos de grep.
 
