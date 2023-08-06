@@ -95,7 +95,7 @@
  
 	-f: Mata los ficheros y argumentos que no existan, sin preguntar.
 
-21) **Curl**: Client url
+21) **curl**: Client url
 
 	-O: Usa la vesion HTTP 1.0.
 
