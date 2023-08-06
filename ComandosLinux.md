@@ -2,7 +2,7 @@
 
 1) **grep** “Expresión” “Archivo”: Global regular expresion print
 
-	-i: Anula la sensibilidad de busqueda (i.e, mayusculas, comas, etc).
+	-i: Anula la sensibilidad de busqueda (i.e, mayúsculas, minúsculas, etc).
 
 	-r: Busca recursivamente en todos los subdirectorios del directorio actual.
 
