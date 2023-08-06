@@ -75,7 +75,7 @@
 
 14) cd: Change directory
 
-	cd .. : Te mueve un directorio hacia atras.
+	cd .. : Te mueve un directorio hacia atrás.
 
 	cd: Te devuelve al home.
 
