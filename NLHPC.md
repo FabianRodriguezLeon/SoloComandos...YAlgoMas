@@ -1,4 +1,4 @@
-# Comados del servidor NLHPC
+# Comados del servidor
 
 | Comando | Función                                               |
 |-----------------------|-------------------------------------------------------|
