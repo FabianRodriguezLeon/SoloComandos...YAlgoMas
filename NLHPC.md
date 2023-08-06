@@ -32,7 +32,7 @@
 
 | Partición | Detalle                                               |
 |-----------------------|-------------------------------------------------------|
-| Leftraru nodo slim (cn)                   | 132 nodos (264sinfo: Muestra el estado de las particiones.                         |
+| Leftraru nodo slim (cn)                   | 132 nodos (2640 núcleos).                         |
 | Guacolda nodo general (sn)                    | 48 nodos (2112 núcleos).                             |
 | Guacolda nodo Largemen (fn)                    | 9 nodos (396 núcleos).                                 |
 | Guacolda nodo GPU (gn)                | 2 nodos.                                      |
