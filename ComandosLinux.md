@@ -99,7 +99,7 @@
 
 	-O: Usa la vesion HTTP 1.0.
 
-	-J: Conserva el encabezado (header) especificado po el servidor en vez de el obtenido desde la URL.
+	-J: Conserva el encabezado (header) especificado por el servidor en vez de el obtenido desde la URL.
 
 	-X: Especifica el método de comunicación requerido con el servidor.
 
