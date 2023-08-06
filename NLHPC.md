@@ -1,4 +1,3 @@
-
 #Comados del servidor NLHPC
 
 sinfo: Muestra el estado de las particiones.
