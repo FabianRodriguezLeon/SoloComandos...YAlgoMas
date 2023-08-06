@@ -1,4 +1,4 @@
-#Comados del servidor NLHPC
+# Comados del servidor NLHPC
 
 sinfo: Muestra el estado de las particiones.
 squeue: Muestra la cola de tareas. Se puede especificar con -usuario.
@@ -10,7 +10,7 @@ scontrol -dd show job “ID del trabajo”: Detalla la información de un trabaj
 sstat: Muestra la cantidad de recursos utilizados por un trabajo/script.
 scontrol write batch_script <job_id>: Ver el script asociado a un trabajo. 
 
-#Variables de SLURM
+# Variables de SLURM
 
 -p “partición”: Enviar un trabajo a una partición en específico. Por default se envia a la partición slims.
 
@@ -29,7 +29,7 @@ scontrol write batch_script <job_id>: Ver el script asociado a un trabajo.
 -J “Nombredeltrabajo”: Detalla el nombre del trabajo
 
 
-#Especificaciones Guacolda-Leftraru
+# Especificaciones Guacolda-Leftraru
 
 Leftraru nodo slim (cn): 132 nodos (2640 núcleos)
 
@@ -39,7 +39,7 @@ Guacolda nodo Largemen (fn): 9 nodos (396 núcleos)
 
 Guacolda nodo GPU (gn): 2 nodos
 
-#Especificaciones de las particiones
+# Especificaciones de las particiones
 
 Cuando lanzamos el comando squeue podemos ver el estado de las particiones slim, general, Largemen, GPU entre otras. Dependiendo de la cantidad de núcleos usados en cada partición se despliega alguno de los siguientes mensajes. 
 
